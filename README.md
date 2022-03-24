@@ -1,6 +1,4 @@
-**# Projecto
-CS388 project
-**Original App Design Project - README Template
+**Original App Design Project
 ===
 
 # Invest.io
@@ -13,16 +11,16 @@ CS388 project
 
 ## Overview
 ### Description
-[Description of your app]
+[Invest.io is an application meant to educate people in trading on the stock market. It will allow users to buy and sell virtual stocks with fictional money. Using this app users will be able to see how well they can do on the stock market without the risk of losing money.]
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category: Finances**
+- **Mobile: This application is primarily meant for mobile devices but could be ported to personal computers. It would not lose any functionality if it were to be moved to a non-mobile version.**
+- **Story: Allows the user to buy and sell stocks with virtual money on the stock market.**
+- **Market: For ages eighteen and older who are interested in experimenting in the stock market.**
+- **Habit: Invest.io can be used as often as the user pleases.**
+- **Scope: First this will be used as an application to educate people in stocks, with long trading in mind. It could also be expanded to a social platform that allows users to compare their trades.**
 
 ## Product Spec
 
@@ -31,7 +29,7 @@ CS388 project
 **Required Must-have Stories**
 
 * [fill in your required user stories here]
-* ...
+* 
 
 **Optional Nice-to-have Stories**
 
