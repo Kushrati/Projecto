@@ -35,16 +35,17 @@
 * Have all major public companies on the app
 * Include a social aspect where the user can follow other users
 * In the social aspect the user can share and like fellow users purchases only if the user chooses to share
-* 
+* Users can follow companies and add them to a watchlist/favorites
+* Comment section for each stock to allow users to post/read their/others input about the stock
+* Leaderboard
+* light and dark mode
 
 **Optional Nice-to-have Stories**
-
-* Users can follow companies and add them to a watchlist/favorites
 * Invites for rewards
 * Show more up to date stock info
 * Reward/level/leaderboard tier system for reaching higher portfolio thresholds
 * Weekly/Monthly leaderboard showings. (Top earners for the previous day/week/month/year
-* Comment section for each stock to allow users to post/read their/others input about the stock
+* Show company background info(desription, employee count, ceo, location)
 * Crypto
 
 ### 2. Screen Archetypes
