@@ -18,7 +18,7 @@
 - **Category: Finances**
 - **Mobile: This application is primarily meant for mobile devices but could be ported to personal computers. It would not lose any functionality if it were to be moved to a non-mobile version.**
 - **Story: Allows the user to buy and sell stocks with virtual money on the stock market.**
-- **Market: For ages eighteen and older who are interested in experimenting in the stock market.**
+- **Market: For ages thirteen and older who are interested in experimenting in the stock market.**
 - **Habit: Invest.io can be used as often as the user pleases.**
 - **Scope: First this will be used as an application to educate people in stocks, with long trading in mind. It could also be expanded to a social platform that allows users to compare their trades.**
 
@@ -28,13 +28,24 @@
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
+* Have user be able to sign up and login/logout
+* Show graphical data of stock prices
+* Show historical data of stock prices
+* Start users out at $1000 to invest and if the users reach a portofolio balance of $0 reset to $1000
+* Have all major public companies on the app
+* Include a social aspect where the user can follow other users
+* In the social aspect the user can share and like fellow users purchases only if the user chooses to share
 * 
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Users can follow companies and add them to a watchlist/favorites
+* Invites for rewards
+* Show more up to date stock info
+* Reward/level/leaderboard tier system for reaching higher portfolio thresholds
+* Weekly/Monthly leaderboard showings. (Top earners for the previous day/week/month/year
+* Comment section for each stock to allow users to post/read their/others input about the stock
+* Crypto
 
 ### 2. Screen Archetypes
 
