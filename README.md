@@ -77,11 +77,11 @@
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
 https://www.figma.com/file/PU6is3q70oT7IpxAa86O1s/LoFi?node-id=0%3A1
-<img src="https://www.figma.com/file/PU6is3q70oT7IpxAa86O1s/LoFi?node-id=0%3A1" width=600>
+<img src="investio-lofi.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 https://www.figma.com/file/2AmHGKzvSSIGIS4AnMZWL3/HiFi?node-id=0%3A1
-<img src="https://www.figma.com/file/2AmHGKzvSSIGIS4AnMZWL3/HiFi?node-id=0%3A1" width=600>
+<img src="investio-hifi.jpg" width=600>
 
 ### [BONUS] Interactive Prototype
 <img src='investio1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
