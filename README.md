@@ -50,20 +50,47 @@
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login screen
+  * login users
+  * sign up button for new users
+* Signup screen
+  * users can sign up for the app
+* Homepage
+  * Users can see graphical data of their portfolio
+  * Users can see historical data of their portfolio
+  * Users can see Portfolio balance and their buying power
+  * Usres can see current owned stocks
+* Stock Search Page
+  * Users can browse for any stock
+  * Users can see trending stocks
+  * Users can see news articles related to the stock market
+* Stock Page
+  * Users can see a detailed view of a particular stock
+  * Users can see graphical and historical data for that particular stock
+  * Users can see how much they have invested into that stock if they do at all
+  * Users can see more details about the stock such as market cap and the highs and lows
+  * Users can see comments other users have made about the stock
+  * Users can post a comment about the stock
+* Compose Comment Screen
+  * Users can compose and comment and post it to the stock page
+* Social Page
+  * Users can see their friends recent activity
+  * Users can see what their friends have bought and sold and the quantity of the stock 
+  * User can click on a friends profile name or picture to see a detailed view of their profile
+* Profile Pages
+  * User can see profile picture
+  * User can see user description
+  * User can see how many stocks owned, following, and followers for that profile
+  * Users can see a list of all the stocks owned with updated pricing
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Homepage tab
+* Seach Stock tab
+* Social Page tab
+* User Profile tab
 
 **Flow Navigation** (Screen to Screen)
 
@@ -73,14 +100,26 @@
 * [list second screen here]
    * [list screen navigation here]
    * ...
+* Homepage
+  * Users can click on a stock to see the detailed view of that stock
+  * Users can scrub through the graph to see dollar amount throughout history
+* Stock Search
+  * Users can click on any trending stock to see a detailed view of that stock
+  * Users can type into the search bar to find any stock
+  * Users can click on a news to story to be brought to the website of that story
+* Stock Page
+  * Users can scrub through the graph on a particular stock 
+  * Users can click on the comment button to navigate to a screen to write out a comment and post it
+* Social Page
+  * Users can click on a another users profile picture or name to be brought to their profile page
+  * Users can click on the stock that another user has interacted with to be brought to the detailed view of that stock
+* User Profiles
+  * Users can click on any of the stocks that a user owns to see a detailed view of that stock
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-https://www.figma.com/file/PU6is3q70oT7IpxAa86O1s/LoFi?node-id=0%3A1
 <img src="investio-lofi.JPG" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
-https://www.figma.com/file/2AmHGKzvSSIGIS4AnMZWL3/HiFi?node-id=0%3A1
 <img src="investio-hifi.JPG" width=600>
 
 ### [BONUS] Interactive Prototype
