@@ -126,4 +126,8 @@
 <img src='investio1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='investio2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
 ## [Schema](https://github.com/Kushrati/investio-backend/blob/main/README.md)
+
+<img src='investio-sprint1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='investio-sprint1-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
