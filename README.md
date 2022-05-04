@@ -1,3 +1,7 @@
+# Final GIF
+
+<img src='investio_final.GIF' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
 **Original App Design Project
 ===
 
